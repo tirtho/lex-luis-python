@@ -1,6 +1,8 @@
 # lex-luis-python
 
-The python code here can be used to read LEx V2 Bot Intents, Utterences etc., and upload in Azure LUIS Apps
+The python code here can be used to read LEx V2 Bot Intents, Utterences and upload in Azure LUIS Apps
+
+TODO: implement code to also migrate slots and other components
 
 ## Prerequisites ##
 
